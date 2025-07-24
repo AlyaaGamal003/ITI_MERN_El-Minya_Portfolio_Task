@@ -16,6 +16,14 @@ nav a {
 nav a:hover {
   background-color: #555;
 }
+section {
+  padding: 60px 20px;       /* adds space inside each section */
+  margin-bottom: 40px;      /* adds space between sections */
+  border-bottom: 1px solid #ccc; /* optional line to separate visually */
+  background-color: white;  /* or give each section its own color */
+  scroll-margin-top: 80px;
+}
+
 /*--------------home Style--------------------*/
 /* Home Page Styling */
 .home-wrapper {
